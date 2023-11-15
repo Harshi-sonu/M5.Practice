@@ -6,7 +6,8 @@ public class Practice_01 {
 		
 		System.out.println("Hello Github");
 		System.out.println("Haii Github");
-        System.err.println("Verification");
+        //System.err.println("Verification");
+		System.out.println("Verified");
 	}
 
 }
